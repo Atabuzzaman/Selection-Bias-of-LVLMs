@@ -6,3 +6,7 @@ Large Vision-Language Models (LVLMs) have achieved strong performance on vision-
 ---
 **Dataset:**
 Please download the fine-grained MCQA dataset from the following link: https://drive.google.com/drive/folders/1405I1_6canS9caK-ZwgukR0bXWLptXlB?usp=sharing.
+
+---
+**Code**
+The provided notebook (cub_with_and_without_name.ipynb) includes the code used to evaluate our datasets (CUB medium/hard) with the Qwen2.5-VL-7B-Instruct model. This code can also be used for all other datasets by just changing the file name and formats. 
