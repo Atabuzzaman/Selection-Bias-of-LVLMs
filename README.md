@@ -14,10 +14,11 @@ The provided notebook (cub_with_and_without_name.ipynb) includes the code used t
 ---
 ## Citation
 ```bibtex
-@article{atabuzzaman2025benchmarking,
+@inproceedings{atabuzzaman2025benchmarking,
   title={Benchmarking and Mitigating MCQA Selection Bias of Large Vision-Language Models},
   author={Atabuzzaman, Md and Asgarov, Ali and Thomas, Chris},
-  journal={arXiv preprint arXiv:2509.16805},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={33536--33550},
   year={2025}
 }
 ```
